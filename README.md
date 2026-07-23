@@ -8,6 +8,9 @@ Updated GitHub Pages website for MeetAdvance.
 - Replaced Texas United Track Club and real athlete names with fictional demonstration data.
 - Added complete static CSS and JavaScript assets.
 - Preserved GitHub Pages custom-domain support for `meetadvance.app`.
+- Replaced development legal placeholders with production-facing Privacy Policy, Terms of Service, Support, and Data Deletion pages.
+- Added store-review support details, camera troubleshooting, account-access guidance, retention criteria, and deletion timelines.
+- Updated homepage payment and award claims to match the MeetAdvance 1.0 mobile application.
 
 ## Update the existing GitHub repository
 
@@ -17,14 +20,14 @@ Updated GitHub Pages website for MeetAdvance.
 4. Upload all files and folders from this package to the repository root.
 5. Allow GitHub to replace files with the same names.
 6. Commit using a message such as:
-   `Update MeetAdvance branding and anonymize sample data`
+   `Finalize MeetAdvance privacy and support pages`
 7. Wait for the GitHub Pages deployment to complete.
 
 The `assets` folder must be uploaded with the HTML files.
 
-## Before public launch
+## Before store submission
 
-- Replace legal placeholders with attorney-reviewed policies.
-- Verify the MeetAdvance email addresses exist.
-- Add the real pilot request workflow.
-- Add app-store links after mobile listings are available.
+- Have qualified counsel review the legal pages for the intended jurisdictions and organization agreements.
+- Verify that all published MeetAdvance email addresses and the support phone number are monitored.
+- Confirm the privacy disclosures against actual production operations and Firebase configuration.
+- Add App Store and Google Play links after the listings are available.
