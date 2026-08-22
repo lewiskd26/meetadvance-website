@@ -1,18 +1,28 @@
-# MeetAdvance Website Version 2
+# MeetAdvance Website v2.4
 
-Static GitHub Pages website for MeetAdvance.
+Static GitHub Pages website for `meetadvance.app`.
 
-## Version 2 updates
-- Enterprise platform positioning
-- Four product modules
-- Circuit and championship meet messaging
-- Dedicated Awards Operations page
-- Dedicated Organizations page
-- Responsive navigation and scroll-reveal enhancements
-- Transparent logo treatment in header and footer
+## v2.4 — TAAF Pilot & Product Proof Release
 
-Deploy by pushing the repository contents to the GitHub Pages branch configured for meetadvance.app.
+This release preserves the existing MeetAdvance visual identity while shifting the public website toward current product proof and controlled-pilot conversion.
 
+### Primary updates
+- Homepage positioning centered on **what happens after official results**.
+- Real mobile product screenshots added for Dashboard, Action Center, Advancement, Invoice, PDF sharing, Awards, and secure award pickup QR.
+- New six-stage workflow: **Official Results → Action Required → Advancement → Payment Reconciliation → Invoice → Awards**.
+- New `pilot.html` page with a controlled regional pilot model and structured email inquiry form.
+- Organizations page reframed from “select a meet” to **select a workflow**.
+- Current pilot capabilities clearly separated from planned/expanded capabilities.
+- “Payments” terminology tightened to **payment reconciliation** where appropriate.
+- TAAF / AAU / championship examples labeled as illustrative; no endorsement or deployment is implied.
+- Awards page updated to distinguish current secure pickup/readiness capability from planned inventory/volunteer intelligence.
+- Added canonical/social metadata, Open Graph image, Twitter card metadata, `robots.txt`, `sitemap.xml`, and `404.html`.
+- Navigation and menu keyboard behavior improved.
 
-## Website update — v2.3
-Updated the public site to reflect the current mobile test build: meet-scoped dashboard, Action Center, itemized invoices, payment reconciliation, and PDF invoice sharing. Support documentation now includes invoice PDF/share guidance.
+## Static pilot inquiry form
+
+GitHub Pages has no server-side form handler. The form on `pilot.html` prepares a structured email addressed to `info@meetadvance.app` using the visitor's local email application. No inquiry data is stored by the website itself.
+
+## Deployment
+
+Push the repository contents to the GitHub Pages branch configured for `meetadvance.app`. Keep `CNAME` at the repository root.
