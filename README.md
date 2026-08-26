@@ -26,3 +26,13 @@ GitHub Pages has no server-side form handler. The form on `pilot.html` prepares 
 ## Deployment
 
 Push the repository contents to the GitHub Pages branch configured for `meetadvance.app`. Keep `CNAME` at the repository root.
+
+## Next Major Update — Athlete Eligibility & Identity Verification
+
+MeetAdvance's next major roadmap item is a three-phase eligibility-integrity capability:
+
+- **MA-EV1 — Automated Age Eligibility + DOB Locking:** rule-based age-division validation, verified DOB locking, and controlled correction/audit history.
+- **MA-EV2 — Independent Verification + Athlete QR/Photo Credential:** independent verifier roles, athlete identity photo, verification status, and secure QR credential.
+- **MA-EV3 — Meet-Day Verification + Challenges + Regional Integrity Dashboard:** credential checks, eligibility challenge workflow, exception review, and organization-level compliance visibility.
+
+The public website identifies this as a **planned roadmap capability**, not a feature currently available in the pilot build.

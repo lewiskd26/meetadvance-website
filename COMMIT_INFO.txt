@@ -1,0 +1,21 @@
+Commit title:
+feat: announce MA-EV athlete eligibility roadmap
+
+Commit description:
+Add Athlete Eligibility & Identity Verification as MeetAdvance's next major roadmap update.
+
+- Add MA-EV1 automated age eligibility and verified DOB locking
+- Add MA-EV2 independent verification and athlete QR/photo credential roadmap
+- Add MA-EV3 meet-day verification, eligibility challenges, and regional integrity dashboard roadmap
+- Update organization-facing messaging around auditable eligibility operations
+- Update README and v2.4 changelog to reflect the MA-EV roadmap announcement
+
+Files changed:
+- index.html
+- organizations.html
+- README.md
+- CHANGELOG-v2.4.md
+
+Suggested GitHub.com commit settings:
+- Commit directly to the main branch if you want the website deployed immediately through the existing GitHub Pages workflow.
+- Otherwise create a new branch and open a pull request if you want review before deployment.

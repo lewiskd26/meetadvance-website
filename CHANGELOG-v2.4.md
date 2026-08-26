@@ -57,3 +57,12 @@ The visual identity is intentionally unchanged. Existing navy/gold/cream colors,
 
 ## Deployment
 Replace the current GitHub Pages repository contents with this release, preserving the root `CNAME` file. GitHub Pages will continue to serve `meetadvance.app` from the configured branch.
+
+## Roadmap Website Update — Athlete Eligibility & Identity Verification
+
+- Added **MA-EV1 — Automated Age Eligibility + DOB Locking** as phase one of the next major update.
+- Added **MA-EV2 — Independent Verification + Athlete QR/Photo Credential** as phase two.
+- Added **MA-EV3 — Meet-Day Verification + Challenges + Regional Integrity Dashboard** as phase three.
+- Added a dedicated homepage roadmap section identifying the capability as planned.
+- Added organization-facing eligibility-integrity positioning and a link to the three-phase roadmap.
+- Kept current pilot capabilities clearly separated from planned functionality.
