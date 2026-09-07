@@ -19,6 +19,18 @@ This release preserves the existing MeetAdvance visual identity while shifting t
 - Added canonical/social metadata, Open Graph image, Twitter card metadata, `robots.txt`, `sitemap.xml`, and `404.html`.
 - Navigation and menu keyboard behavior improved.
 
+
+## v2.5 — Initial Commercial Pricing
+
+- Added dedicated `pricing.html`.
+- Added MeetAdvance Meet at **$199 per meet**.
+- Added MeetAdvance Region at **$1,499 per year**.
+- Added Governing Body / Enterprise pricing starting around **$7,500 per year**.
+- Added a controlled regional pilot range of **$0–$500**, depending on scope and strategic value.
+- Clarified that teams, coaches, parents, athletes, timing operators, protest officials, and awards staff do not carry separate seat fees.
+- Added pricing navigation, homepage pricing preview, organization pricing callout, pilot commercial path, and sitemap entry.
+- AthleteVerify™, premium Team features, and transaction pricing remain outside the initial commercial model.
+
 ## Static pilot inquiry form
 
 GitHub Pages has no server-side form handler. The form on `pilot.html` prepares a structured email addressed to `info@meetadvance.app` using the visitor's local email application. No inquiry data is stored by the website itself.

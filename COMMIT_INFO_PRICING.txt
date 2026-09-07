@@ -1,0 +1,15 @@
+Commit title:
+feat: add initial MeetAdvance commercial pricing
+
+Commit description:
+- Add MeetAdvance Meet at $199 per meet
+- Add MeetAdvance Region at $1,499 per year
+- Add governing-body pricing starting around $7,500/year
+- Add $0–$500 controlled regional pilot range
+- Clarify no separate seat fees for participating users
+- Add pricing page, navigation, homepage preview, organization callout, and pilot commercial path
+
+Suggested commit command:
+git add .
+git commit -m "feat: add initial MeetAdvance commercial pricing"
+git push origin main
