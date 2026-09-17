@@ -1,0 +1,12 @@
+Suggested commit:
+feat: refresh website with neutral production demo screenshots
+
+Suggested tag:
+meetadvance-website-v3.1
+
+Suggested commands:
+git add .
+git commit -m "feat: refresh website with neutral production demo screenshots"
+git push origin main
+git tag -a meetadvance-website-v3.1 -m "MeetAdvance Website v3.1 - Production Demo Screenshot Refresh"
+git push origin meetadvance-website-v3.1
