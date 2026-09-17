@@ -1,4 +1,4 @@
-# MeetAdvance Website v2.4
+# MeetAdvance Website v3.0
 
 Static GitHub Pages website for `meetadvance.app`.
 
@@ -48,3 +48,14 @@ MeetAdvance's next major roadmap item is a three-phase eligibility-integrity cap
 - **MA-EV3 — Meet-Day Verification + Challenges + Regional Integrity Dashboard:** credential checks, eligibility challenge workflow, exception review, and organization-level compliance visibility.
 
 The public website identifies this as a **planned roadmap capability**, not a feature currently available in the pilot build.
+
+
+## v3.0 — Post-Results Category & GTM Pivot
+
+- Positions MeetAdvance as **the post-results operations platform for track & field**.
+- Adds explicit “keep your current stack” positioning for registration, timing, scoring, and results systems.
+- Adds Black-owned / track-focused company identity language.
+- Broadens organization positioning beyond any one TAAF region to AAU, USATF, TAAF, independent championship operators, and club-hosted meets.
+- Converts the pilot CTA into a workflow-discovery motion: **What is still manual after official results?**
+- Reduces public AthleteVerify™ implementation detail while preserving the roadmap signal.
+- See `CHANGELOG-v3.0.md` for details.

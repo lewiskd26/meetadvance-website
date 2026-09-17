@@ -1,0 +1,14 @@
+Suggested commit:
+
+feat: reposition MeetAdvance as post-results track operations platform
+
+Suggested tag:
+meetadvance-website-v3.0
+
+Release summary:
+- post-results category ownership
+- existing-stack / no-rip-and-replace positioning
+- Black-owned + track-focused company identity
+- broader AAU/USATF/independent operator GTM framing
+- tighter AthleteVerify public roadmap disclosure
+- workflow-first pilot CTA

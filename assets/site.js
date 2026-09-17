@@ -20,7 +20,7 @@ if(pilotForm){
     const data=new FormData(pilotForm);
     const workflows=data.getAll('workflow');
     const body=[
-      'MeetAdvance Controlled Pilot Inquiry',
+      'MeetAdvance Post-Results Workflow Inquiry',
       '',
       `Name: ${data.get('name')||''}`,
       `Organization: ${data.get('organization')||''}`,
@@ -30,13 +30,13 @@ if(pilotForm){
       `Desired timeframe: ${data.get('timeframe')||''}`,
       `Interested workflow: ${workflows.length?workflows.join(', '):'Not specified'}`,
       '',
-      'Operational challenge:',
+      'What is still manual after official results?:',
       `${data.get('challenge')||'Not provided'}`,
     ].join('\n');
-    const subject=`MeetAdvance Controlled Pilot - ${data.get('organization')||'Organization'}`;
+    const subject=`MeetAdvance Workflow Inquiry - ${data.get('organization')||'Organization'}`;
     const mailto=`mailto:info@meetadvance.app?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
     const status=document.querySelector('#pilotFormStatus');
-    if(status)status.textContent='Opening your email application with the pilot details prepared.';
+    if(status)status.textContent='Opening your email application with the workflow details prepared.';
     window.location.href=mailto;
   });
 }
